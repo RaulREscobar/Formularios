@@ -1,0 +1,29 @@
+.profile .formcontainer {
+    width: 100%;
+
+}
+
+.profile-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-box h4 {
+    margin-bottom: 1rem;
+}
+
+.profile .button-container {
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    gap: 10px;
+}
+
